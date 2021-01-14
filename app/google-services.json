@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627501387679",
+    "project_id": "authapp-43769",
+    "storage_bucket": "authapp-43769.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627501387679:android:294248b24907cc502577aa",
+        "android_client_info": {
+          "package_name": "com.narcis.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627501387679-4uib0vbkra8ghep7qniuat21u345h7kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBVnx1asmn_aFDxeYT0079WloOvPSgnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627501387679-4uib0vbkra8ghep7qniuat21u345h7kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
